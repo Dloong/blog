@@ -11,3 +11,5 @@
 [Vue组件数据通讯新姿势](https://github.com/Dloong/blog/issues/2)
 
 [vue源码之双向绑定原理](https://github.com/Dloong/blog/issues/1)
+
+[用最简单的方式修改组件的prop](https://github.com/Dloong/blog/issues/3)
