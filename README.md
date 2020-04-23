@@ -16,3 +16,4 @@
 
 # Javascript 算法
 [基础算法之冒泡排序](https://github.com/Dloong/blog/issues/4)
+[基础算法之快速排序](https://github.com/Dloong/blog/issues/5)
