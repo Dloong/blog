@@ -13,3 +13,6 @@
 [vue源码之双向绑定原理](https://github.com/Dloong/blog/issues/1)
 
 [用最简单的方式修改组件的prop](https://github.com/Dloong/blog/issues/3)
+
+# Javascript 算法
+[基础算法之冒泡排序](https://github.com/Dloong/blog/issues/4)
