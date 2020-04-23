@@ -14,7 +14,7 @@
 
 [用最简单的方式修改组件的prop](https://github.com/Dloong/blog/issues/3)
 
-# Javascript 算法
+# Javascript 
 [基础算法之冒泡排序](https://github.com/Dloong/blog/issues/4)
 
 [基础算法之快速排序](https://github.com/Dloong/blog/issues/5)
