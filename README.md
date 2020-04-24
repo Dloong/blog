@@ -20,3 +20,5 @@
 [基础算法之快速排序](https://github.com/Dloong/blog/issues/5)
 
 [基础算法之选择排序](https://github.com/Dloong/blog/issues/6)
+
+[webpack文件指纹](https://github.com/Dloong/blog/issues/7)
