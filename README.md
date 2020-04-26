@@ -20,6 +20,8 @@
 ### API基础原理
 [javascript数据传输原理](https://github.com/Dloong/blog/issues/8)
 
+[javascript之New原理](https://github.com/Dloong/blog/issues/10)
+
 ### 基础算法
 [基础算法之冒泡排序](https://github.com/Dloong/blog/issues/4)
 
