@@ -12,6 +12,8 @@
 
 [javascript之New原理](https://github.com/Dloong/blog/issues/10)
 
+[javascript之Promise](https://github.com/Dloong/blog/issues/12)
+
 ### CSS
 [px、dp、dpr、ppi、viewport 相关概念](https://github.com/Dloong/blog/issues/11)
 
