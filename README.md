@@ -14,6 +14,8 @@
 
 [javascript之Promise](https://github.com/Dloong/blog/issues/12)
 
+[chrome浏览器进程架构](https://github.com/Dloong/blog/issues/13)
+
 ### CSS
 [px、dp、dpr、ppi、viewport 相关概念](https://github.com/Dloong/blog/issues/11)
 
