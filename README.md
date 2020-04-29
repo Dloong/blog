@@ -7,6 +7,9 @@
 因为这个确实好用，简单、便捷。同时可以朴实无华的装个小X😂~
 
 ### Javascript
+[数据包传输流程（下）](https://github.com/Dloong/blog/issues/15)
+
+[数据包传输流程（上）](https://github.com/Dloong/blog/issues/14)
 
 [javascript数据传输原理](https://github.com/Dloong/blog/issues/8)
 
