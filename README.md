@@ -13,6 +13,8 @@
 
 [chrome浏览器进程架构](https://github.com/Dloong/blog/issues/13)
 
+[浏览器渲染中的重绘和重排] (https://github.com/Dloong/blog/issues/16)
+
 ### Javascript
 [javascript数据传输原理](https://github.com/Dloong/blog/issues/8)
 
