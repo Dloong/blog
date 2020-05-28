@@ -15,6 +15,8 @@
 
 [浏览器渲染中的重绘和重排](https://github.com/Dloong/blog/issues/16)
 
+[变量提升](https://github.com/Dloong/blog/issues/17)
+
 ### Javascript
 [javascript数据传输原理](https://github.com/Dloong/blog/issues/8)
 
