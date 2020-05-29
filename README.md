@@ -3,9 +3,8 @@
 
   记录前端路上学习的点点滴滴[blog模块划分](https://github.com/Dloong/blog/projects)
   
-~也曾自己搭过博客，也曾用过第三方博客，到现在也在用印象笔记，但最终还是选择了github。因为什么？
-因为这个确实好用，简单、便捷。同时可以朴实无华的装个小X😂~
-### 踩坑记录
+  同时也会记录一下在开发过程中遇到的一些 [神坑](https://github.com/Dloong/blog/issues/18)
+  
 
 ### 浏览器工作原理
 [数据包传输流程（下）](https://github.com/Dloong/blog/issues/15)
