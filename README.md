@@ -32,6 +32,8 @@
 
 
 ### Vue
+[Vue之响应式系统原理(一)](https://github.com/Dloong/blog/issues/21)
+
 [发布者与订阅者模式](https://github.com/Dloong/blog/issues/8)
 
 [Vue组件数据通讯新姿势](https://github.com/Dloong/blog/issues/2)
