@@ -4,7 +4,7 @@
   记录前端路上学习的点点滴滴[blog模块划分](https://github.com/Dloong/blog/projects)
   
   同时也会记录一下在开发过程中遇到的一些 [神坑](https://github.com/Dloong/blog/issues/18)
-  
+  [查看更多](https://github.com/Dloong/blog/issues)
 
 ### 浏览器工作原理
 [数据包传输流程（下）](https://github.com/Dloong/blog/issues/15)
